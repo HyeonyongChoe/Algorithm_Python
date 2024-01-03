@@ -24,4 +24,3 @@ ans = sorted(ans,key=lambda x : x)
 for i in ans:
     print(*i)
 
-#
